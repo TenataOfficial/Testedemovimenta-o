@@ -1,0 +1,10 @@
+c:\users\tenata\documents\visual studio 2013\Projects\console the man house\console the man house\bin\Debug\console the man house.exe.config
+C:\Users\Tenata\documents\visual studio 2013\Projects\console the man house\console the man house\bin\Debug\console the man house.exe
+C:\Users\Tenata\documents\visual studio 2013\Projects\console the man house\console the man house\bin\Debug\console the man house.pdb
+C:\Users\Tenata\documents\visual studio 2013\Projects\console the man house\console the man house\bin\Debug\console the man house.xml
+C:\Users\Tenata\documents\visual studio 2013\Projects\console the man house\console the man house\obj\Debug\console_the_man_house.Form1.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\console the man house\console the man house\obj\Debug\console_the_man_house.Resources.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\console the man house\console the man house\obj\Debug\console the man house.vbproj.GenerateResource.Cache
+C:\Users\Tenata\documents\visual studio 2013\Projects\console the man house\console the man house\obj\Debug\console the man house.exe
+C:\Users\Tenata\documents\visual studio 2013\Projects\console the man house\console the man house\obj\Debug\console the man house.xml
+C:\Users\Tenata\documents\visual studio 2013\Projects\console the man house\console the man house\obj\Debug\console the man house.pdb

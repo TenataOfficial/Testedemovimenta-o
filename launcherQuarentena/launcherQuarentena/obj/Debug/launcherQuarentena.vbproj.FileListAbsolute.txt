@@ -1,0 +1,14 @@
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\bin\Debug\launcherQuarentena.exe.config
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\obj\Debug\launcherQuarentena.exe
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\obj\Debug\launcherQuarentena.xml
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\obj\Debug\launcherQuarentena.pdb
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\bin\Debug\launcherQuarentena.exe
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\bin\Debug\launcherQuarentena.pdb
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\bin\Debug\launcherQuarentena.xml
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\obj\Debug\launcherQuarentena.Form1.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\obj\Debug\launcherQuarentena.Resources.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\obj\Debug\launcherQuarentena.vbproj.GenerateResource.Cache
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\bin\Debug\launcherQuarentena.exe.manifest
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\bin\Debug\launcherQuarentena.application
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\obj\Debug\launcherQuarentena.exe.manifest
+C:\Users\Tenata\documents\visual studio 2013\Projects\launcherQuarentena\launcherQuarentena\obj\Debug\launcherQuarentena.application
